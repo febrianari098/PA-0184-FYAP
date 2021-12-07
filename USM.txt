@@ -1,1 +1,4 @@
 "Universitas Semarang" 
+stash@{0}: WIP on master: 1467683 third commit 3
+stash@{1}: WIP on master: b371568 Branch Baru
+stash@{2}: WIP on master: b371568 Branch Baru
